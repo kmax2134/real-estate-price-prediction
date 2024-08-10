@@ -1,6 +1,6 @@
-streamlit
-numpy
-pandas
-scikit-learn
-xgboost
-category_encoders
+ streamlit
+ numpy
+ pandas
+ scikit-learn
+ xgboost
+ category_encoders
